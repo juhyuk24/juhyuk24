@@ -41,11 +41,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <!-- <a href="https://www.notion.so/7d9b42f10e4844d6b67c84079f488f3a">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  </a> -->
   <a href="mailto:bas33@naver.com">
-    <img
-      src="https://img.shields.io/badge/bas33@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/bas33@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>

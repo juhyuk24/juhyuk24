@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&logoColor=white">&nbsp
 </div>
 
 
